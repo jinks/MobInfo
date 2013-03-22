@@ -1,0 +1,9 @@
+name: MobInfo
+main: net.mended_drum.MobInfo.MobInfo
+version: 0.2.0
+description: Check which mobs can spawn on top of a specific block.
+author: jinks
+permissions:
+  mobinfo.check:
+    description: Allows use of the mobinfo wand.
+    default: op
